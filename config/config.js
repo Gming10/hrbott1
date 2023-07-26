@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     // The bot prefix;
-    prefix: '.',
+    prefix: '!',
     // The bot ID, if you are not sure how to get that, start the bot with loggers.ready set to True
     botId: '',
     // You bot name.
@@ -103,6 +103,6 @@ module.exports = {
     // To obtain your token, visit https://highrise.game/ and log in. Then, go to the settings and create a new bot. Accept the terms and generate a token.
     // To obtain your room ID, go to the game and navigate to the top right corner where the player list is displayed. Click on "Share this room" and copy the ID.
     room: '64baaeb15339bf72a4ebd744',
-    token: 'd5993dc3697c26fb09385f4f09aec1ba2de09c49f2981788d0aea5c046d68625'
+    token: '4c1722122515ab1acdb2f5e8e65b67c6dc551f85330cadf7dee39701d425f5e4'
   }
 }
